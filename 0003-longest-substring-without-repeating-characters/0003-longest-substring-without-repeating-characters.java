@@ -3,19 +3,19 @@ class Solution {
 
         HashSet<Character> set = new HashSet<>();
 
-        int left = 0;
+        int j = 0;
         int maxLen = 0;
 
-        for (int right = 0; right < s.length(); right++) {
+        for (int i = 0; i < s.length(); i++) {
 
-            while (set.contains(s.charAt(right))) {
-                set.remove(s.charAt(left));
-                left++;
+            while (set.contains(s.charAt(i))) {
+                set.remove(s.charAt(j));
+                j++;
             }
 
-            set.add(s.charAt(right));
+            set.add(s.charAt(i));
 
-            maxLen = Math.max(maxLen, right - left + 1);
+            maxLen = Math.max(maxLen, i - j + 1);
         }
 
         return maxLen;

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tarushivishwakarma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0860-lemonade-change](https://github.com/tarushivishwakarma/DSA/tree/master/0860-lemonade-change) |
@@ -45,5 +46,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/tarushivishwakarma/DSA/tree/master/0860-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->

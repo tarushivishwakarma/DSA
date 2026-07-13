@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarushivishwakarma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/tarushivishwakarma/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/tarushivishwakarma/DSA/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/tarushivishwakarma/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tarushivishwakarma/DSA/tree/master/0875-koko-eating-bananas) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Enumeration
 |  |
 | ------- |

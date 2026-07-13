@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

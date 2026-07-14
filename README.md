@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/tarushivishwakarma/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/tarushivishwakarma/DSA/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1291-sequential-digits) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

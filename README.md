@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tarushivishwakarma/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/tarushivishwakarma/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->

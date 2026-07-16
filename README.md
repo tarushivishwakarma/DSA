@@ -143,14 +143,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarushivishwakarma/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarushivishwakarma/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0797-all-paths-from-source-to-target](https://github.com/tarushivishwakarma/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarushivishwakarma/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarushivishwakarma/DSA/tree/master/0404-sum-of-left-leaves) |
+| [0797-all-paths-from-source-to-target](https://github.com/tarushivishwakarma/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tarushivishwakarma/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tarushivishwakarma/DSA/tree/master/0404-sum-of-left-leaves) |
+## Backtracking
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/tarushivishwakarma/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/tarushivishwakarma/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->

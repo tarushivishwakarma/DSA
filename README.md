@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tarushivishwakarma/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0134-gas-station](https://github.com/tarushivishwakarma/DSA/tree/master/0134-gas-station) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/tarushivishwakarma/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/tarushivishwakarma/DSA/tree/master/0875-koko-eating-bananas) |

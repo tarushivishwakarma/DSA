@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/tarushivishwakarma/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/tarushivishwakarma/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/tarushivishwakarma/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/tarushivishwakarma/DSA/tree/master/0875-koko-eating-bananas) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/tarushivishwakarma/DSA/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/tarushivishwakarma/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/tarushivishwakarma/DSA/tree/master/0860-lemonade-change) |
 ## Dynamic Programming
 |  |

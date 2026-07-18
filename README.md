@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/tarushivishwakarma/DSA/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tarushivishwakarma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tarushivishwakarma/DSA/tree/master/0743-network-delay-time) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

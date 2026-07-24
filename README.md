@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tarushivishwakarma/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tarushivishwakarma/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tarushivishwakarma/DSA/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/tarushivishwakarma/DSA/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/tarushivishwakarma/DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarushivishwakarma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/tarushivishwakarma/DSA/tree/master/1108-defanging-an-ip-address) |

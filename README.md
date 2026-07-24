@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarushivishwakarma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarushivishwakarma/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tarushivishwakarma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

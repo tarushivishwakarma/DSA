@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tarushivishwakarma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/tarushivishwakarma/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tarushivishwakarma/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tarushivishwakarma/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarushivishwakarma/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tarushivishwakarma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tarushivishwakarma/DSA/tree/master/0160-intersection-of-two-linked-lists) |

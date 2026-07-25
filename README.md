@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [2413-smallest-even-multiple](https://github.com/tarushivishwakarma/DSA/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/tarushivishwakarma/DSA/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarushivishwakarma/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2651-calculate-delayed-arrival-time](https://github.com/tarushivishwakarma/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/tarushivishwakarma/DSA/tree/master/2652-sum-multiples) |

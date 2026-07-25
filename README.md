@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tarushivishwakarma/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2651-calculate-delayed-arrival-time](https://github.com/tarushivishwakarma/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [3536-maximum-product-of-two-digits](https://github.com/tarushivishwakarma/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tarushivishwakarma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |

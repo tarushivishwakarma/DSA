@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tarushivishwakarma/DSA/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tarushivishwakarma/DSA/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/tarushivishwakarma/DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarushivishwakarma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/tarushivishwakarma/DSA/tree/master/1108-defanging-an-ip-address) |

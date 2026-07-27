@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/tarushivishwakarma/DSA/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/tarushivishwakarma/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tarushivishwakarma/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tarushivishwakarma/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarushivishwakarma/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/tarushivishwakarma/DSA/tree/master/3536-maximum-product-of-two-digits) |

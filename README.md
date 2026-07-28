@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tarushivishwakarma/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/tarushivishwakarma/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/tarushivishwakarma/DSA/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
 ## Divide and Conquer
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/tarushivishwakarma/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tarushivishwakarma/DSA/tree/master/0374-guess-number-higher-or-lower) |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tarushivishwakarma/DSA/tree/master/0455-assign-cookies) |
@@ -180,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/tarushivishwakarma/DSA/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |

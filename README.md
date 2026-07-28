@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarushivishwakarma/DSA/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/tarushivishwakarma/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/tarushivishwakarma/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/tarushivishwakarma/DSA/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/tarushivishwakarma/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/tarushivishwakarma/DSA/tree/master/0263-ugly-number) |

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/tarushivishwakarma/DSA/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tarushivishwakarma/DSA/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/tarushivishwakarma/DSA/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tarushivishwakarma/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/tarushivishwakarma/DSA/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarushivishwakarma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/tarushivishwakarma/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/tarushivishwakarma/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tarushivishwakarma/DSA/tree/master/1929-concatenation-of-array) |

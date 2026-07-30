@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/tarushivishwakarma/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarushivishwakarma/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
+| [2540-minimum-common-value](https://github.com/tarushivishwakarma/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/tarushivishwakarma/DSA/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tarushivishwakarma/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarushivishwakarma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2540-minimum-common-value](https://github.com/tarushivishwakarma/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/tarushivishwakarma/DSA/tree/master/2942-find-words-containing-character) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/tarushivishwakarma/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0875-koko-eating-bananas](https://github.com/tarushivishwakarma/DSA/tree/master/0875-koko-eating-bananas) |
+| [2540-minimum-common-value](https://github.com/tarushivishwakarma/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/tarushivishwakarma/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/tarushivishwakarma/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory

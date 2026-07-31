@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tarushivishwakarma/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tarushivishwakarma/DSA/tree/master/0058-length-of-last-word) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/tarushivishwakarma/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tarushivishwakarma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tarushivishwakarma/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/tarushivishwakarma/DSA/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/tarushivishwakarma/DSA/tree/master/0455-assign-cookies) |

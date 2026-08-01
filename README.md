@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/tarushivishwakarma/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/tarushivishwakarma/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0258-add-digits](https://github.com/tarushivishwakarma/DSA/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/tarushivishwakarma/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tarushivishwakarma/DSA/tree/master/0326-power-of-three) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tarushivishwakarma/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/tarushivishwakarma/DSA/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tarushivishwakarma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tarushivishwakarma/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/tarushivishwakarma/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/tarushivishwakarma/DSA/tree/master/1920-build-array-from-permutation) |

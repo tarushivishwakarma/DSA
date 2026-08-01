@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/tarushivishwakarma/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarushivishwakarma/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tarushivishwakarma/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarushivishwakarma/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tarushivishwakarma/DSA/tree/master/1678-goal-parser-interpretation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tarushivishwakarma/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarushivishwakarma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/tarushivishwakarma/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tarushivishwakarma/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarushivishwakarma/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/tarushivishwakarma/DSA/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |

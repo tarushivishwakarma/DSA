@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tarushivishwakarma/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tarushivishwakarma/DSA/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/tarushivishwakarma/DSA/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0434-number-of-segments-in-a-string) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarushivishwakarma/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tarushivishwakarma/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -404,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

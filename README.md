@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/tarushivishwakarma/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/tarushivishwakarma/DSA/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
 ## Divide and Conquer
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/tarushivishwakarma/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tarushivishwakarma/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tarushivishwakarma/DSA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tarushivishwakarma/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/tarushivishwakarma/DSA/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tarushivishwakarma/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/tarushivishwakarma/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tarushivishwakarma/DSA/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |

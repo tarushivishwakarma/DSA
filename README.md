@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/tarushivishwakarma/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarushivishwakarma/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/tarushivishwakarma/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/tarushivishwakarma/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tarushivishwakarma/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tarushivishwakarma/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarushivishwakarma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -435,8 +438,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tarushivishwakarma/DSA/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

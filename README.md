@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/tarushivishwakarma/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/tarushivishwakarma/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/tarushivishwakarma/DSA/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/tarushivishwakarma/DSA/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tarushivishwakarma/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarushivishwakarma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/tarushivishwakarma/DSA/tree/master/2942-find-words-containing-character) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarushivishwakarma/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1859-sorting-the-sentence](https://github.com/tarushivishwakarma/DSA/tree/master/1859-sorting-the-sentence) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -451,4 +453,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/tarushivishwakarma/DSA/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->

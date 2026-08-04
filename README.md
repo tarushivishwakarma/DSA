@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tarushivishwakarma/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tarushivishwakarma/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tarushivishwakarma/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tarushivishwakarma/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/tarushivishwakarma/DSA/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tarushivishwakarma/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tarushivishwakarma/DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tarushivishwakarma/DSA/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/tarushivishwakarma/DSA/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/tarushivishwakarma/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/tarushivishwakarma/DSA/tree/master/0307-range-sum-query-mutable) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tarushivishwakarma/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tarushivishwakarma/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tarushivishwakarma/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tarushivishwakarma/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tarushivishwakarma/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarushivishwakarma/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -460,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/tarushivishwakarma/DSA/tree/master/1859-sorting-the-sentence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tarushivishwakarma/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

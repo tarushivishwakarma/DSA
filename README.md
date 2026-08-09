@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tarushivishwakarma/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/tarushivishwakarma/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/tarushivishwakarma/DSA/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/tarushivishwakarma/DSA/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tarushivishwakarma/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tarushivishwakarma/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tarushivishwakarma/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tarushivishwakarma/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/tarushivishwakarma/DSA/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/tarushivishwakarma/DSA/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/tarushivishwakarma/DSA/tree/master/0976-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tarushivishwakarma/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/tarushivishwakarma/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/tarushivishwakarma/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/tarushivishwakarma/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/tarushivishwakarma/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/tarushivishwakarma/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/tarushivishwakarma/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tarushivishwakarma/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
@@ -476,10 +481,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 ## Bubble Sort
 |  |

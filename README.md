@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/tarushivishwakarma/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tarushivishwakarma/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/tarushivishwakarma/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tarushivishwakarma/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/tarushivishwakarma/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/tarushivishwakarma/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/tarushivishwakarma/DSA/tree/master/0875-koko-eating-bananas) |
 | [2540-minimum-common-value](https://github.com/tarushivishwakarma/DSA/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/tarushivishwakarma/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/tarushivishwakarma/DSA/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/tarushivishwakarma/DSA/tree/master/2652-sum-multiples) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tarushivishwakarma/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tarushivishwakarma/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tarushivishwakarma/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tarushivishwakarma/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/tarushivishwakarma/DSA/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/tarushivishwakarma/DSA/tree/master/2413-smallest-even-multiple) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/tarushivishwakarma/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tarushivishwakarma/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -528,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/tarushivishwakarma/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tarushivishwakarma/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Nim Game
 |  |

@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/tarushivishwakarma/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1844-replace-all-digits-with-characters](https://github.com/tarushivishwakarma/DSA/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/tarushivishwakarma/DSA/tree/master/1859-sorting-the-sentence) |
+| [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tarushivishwakarma/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/tarushivishwakarma/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/tarushivishwakarma/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/tarushivishwakarma/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tarushivishwakarma/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1386-cinema-seat-allocation](https://github.com/tarushivishwakarma/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tarushivishwakarma/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/tarushivishwakarma/DSA/tree/master/2235-add-two-integers) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 ## Queue
 |  |

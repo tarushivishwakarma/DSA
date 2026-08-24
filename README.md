@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/tarushivishwakarma/DSA/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/tarushivishwakarma/DSA/tree/master/1720-decode-xored-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/tarushivishwakarma/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/tarushivishwakarma/DSA/tree/master/1929-concatenation-of-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/tarushivishwakarma/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/tarushivishwakarma/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/tarushivishwakarma/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/tarushivishwakarma/DSA/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/tarushivishwakarma/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/tarushivishwakarma/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 ## Enumeration
 |  |
 | ------- |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tarushivishwakarma/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 ## Queue
@@ -519,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -526,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tarushivishwakarma/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/tarushivishwakarma/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/tarushivishwakarma/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tarushivishwakarma/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tarushivishwakarma/DSA/tree/master/2029-stone-game-ix) |
 ## Bubble Sort
 |  |
